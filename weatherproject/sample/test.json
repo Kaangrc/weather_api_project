@@ -1,0 +1,250 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search -  1920x1080",
+        "totalResults": "4360000000",
+        "searchTerms": " 1920x1080",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "408e42f7c44ad4dca",
+        "searchType": "image",
+        "imgSize": "xlarge"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search -  1920x1080",
+        "totalResults": "4360000000",
+        "searchTerms": " 1920x1080",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "408e42f7c44ad4dca",
+        "searchType": "image",
+        "imgSize": "xlarge"
+      }
+    ]
+  },
+  "context": {
+    "title": "new"
+  },
+  "searchInformation": {
+    "searchTime": 0.537459,
+    "formattedSearchTime": "0.54",
+    "totalResults": "4360000000",
+    "formattedTotalResults": "4,360,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "1920x1080 Wallpapers: Free HD Download [500+ HQ] | Unsplash",
+      "htmlTitle": "<b>1920x1080</b> Wallpapers: Free HD Download [500+ HQ] | Unsplash",
+      "link": "https://images.unsplash.com/opengraph/1x1.png?blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1553702446-a39d6fbee6cb%3Fblend%3D000000%26blend-alpha%3D10%26blend-mode%3Dnormal%26crop%3Dfaces%252Cedges%26h%3D630%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fsearch-input.png%253Fh%253D84%2526txt%253DHD%252B1920x1080%252BWallpapers%2526txt-align%253Dmiddle%25252Cleft%2526txt-clip%253Dellipsis%2526txt-color%253D000000%2526txt-pad%253D80%2526txt-size%253D40%2526txt-width%253D660%2526w%253D750%2526auto%253Dformat%2526fit%253Dcrop%2526q%253D60%26mark-align%3Dmiddle%252Ccenter%26mark-w%3D750%26w%3D1200%26auto%3Dformat%26fit%3Dcrop%26q%3D60%26ixlib%3Drb-4.0.3&blend-w=1&h=630&mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-align=top%2Cleft&mark-pad=50&mark-w=64&w=1200&auto=format&fit=crop&q=60",
+      "displayLink": "unsplash.com",
+      "snippet": "1920x1080 Wallpapers: Free HD Download [500+ HQ] | Unsplash",
+      "htmlSnippet": "<b>1920x1080</b> Wallpapers: Free HD Download [500+ HQ] | Unsplash",
+      "mime": "image/png",
+      "fileFormat": "image/png",
+      "image": {
+        "contextLink": "https://unsplash.com/wallpapers/screen/1920x1080",
+        "height": 630,
+        "width": 1200,
+        "byteSize": 394947,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BZjZbm5fziqb3uDeNpBymXFiiP0FaFMsVFbOMqsdtQ8NE0fgMYWq6FU&s",
+        "thumbnailHeight": 79,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "SAMSUNG 27 Class Curved 1920x1080 VGA HDMI 60hz 4ms AMD FREESYNC ...",
+      "htmlTitle": "SAMSUNG 27&quot; Class Curved <b>1920x1080</b> VGA HDMI 60hz 4ms AMD FREESYNC ...",
+      "link": "https://i5.walmartimages.com/seo/SAMSUNG-27-Class-Curved-1920x1080-VGA-HDMI-60hz-4ms-AMD-FREESYNC-HD-LED-Monitor-LC27F396FHNXZA_44819c49-a274-4eca-8e01-74c2fc4c675a.f902d058f3d3306368c506afa1390e2f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "displayLink": "www.walmart.com",
+      "snippet": "SAMSUNG 27 Class Curved 1920x1080 VGA HDMI 60hz 4ms AMD FREESYNC ...",
+      "htmlSnippet": "SAMSUNG 27&quot; Class Curved <b>1920x1080</b> VGA HDMI 60hz 4ms AMD FREESYNC ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.walmart.com/ip/SAMSUNG-27-Class-Curved-1920x1080-VGA-HDMI-60hz-4ms-AMD-FREESYNC-HD-LED-Monitor-LC27F396FHNXZA/117633165",
+        "height": 768,
+        "width": 768,
+        "byteSize": 88981,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Qk9EtoSKTZtkxsdmwZRJe8YwfOtUABXG9r7ZrY1VPXhidns4CqiAJlY&s",
+        "thumbnailHeight": 142,
+        "thumbnailWidth": 142
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Windows 11 Black Abstract Bloom [1920x1080] : r/wallpaper",
+      "htmlTitle": "Windows 11 Black Abstract Bloom [<b>1920x1080</b>] : r/wallpaper",
+      "link": "https://preview.redd.it/windows-11-black-abstract-bloom-1920x1080-v0-vfj65y1spo2b1.jpg?width=1080&crop=smart&auto=webp&s=5a65581959137875b49df214146a9d0a67eec168",
+      "displayLink": "www.reddit.com",
+      "snippet": "Windows 11 Black Abstract Bloom [1920x1080] : r/wallpaper",
+      "htmlSnippet": "Windows 11 Black Abstract Bloom [<b>1920x1080</b>] : r/wallpaper",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.reddit.com/r/wallpaper/comments/13uiu85/windows_11_black_abstract_bloom_1920x1080/",
+        "height": 607,
+        "width": 1080,
+        "byteSize": 36301,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRNnJNsmzgKPagm6EVmHbxi8wa0HVdYln8RKWHrnMkftQJTEZeL6RapQ&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Amazon.com: KOORUI 24 Gaming Monitor 165Hz, 1080p, 1ms, IPS, 99 ...",
+      "htmlTitle": "Amazon.com: KOORUI 24&quot; Gaming Monitor 165Hz, 1080p, 1ms, IPS, 99 ...",
+      "link": "https://m.media-amazon.com/images/I/71JdV8N-rXL._AC_UF894,1000_QL80_.jpg",
+      "displayLink": "www.amazon.com",
+      "snippet": "Amazon.com: KOORUI 24 Gaming Monitor 165Hz, 1080p, 1ms, IPS, 99 ...",
+      "htmlSnippet": "Amazon.com: KOORUI 24&quot; Gaming Monitor 165Hz, 1080p, 1ms, IPS, 99 ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.amazon.com/KOORUI-FreeSync-Mountable-1920x1080-DisplayPort/dp/B0BCDD4KTK",
+        "height": 696,
+        "width": 894,
+        "byteSize": 59629,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-hYeP0f60uH1hN7DV0QEKtx3vitnECpZW4hKD3uQV5te1zXIKSmcxg&s",
+        "thumbnailHeight": 114,
+        "thumbnailWidth": 146
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Turquoise Sea Meets Sky Wide Angle AI Generated [1920x1080] : r ...",
+      "htmlTitle": "Turquoise Sea Meets Sky Wide Angle AI Generated [<b>1920x1080</b>] : r ...",
+      "link": "https://preview.redd.it/turquoise-sea-meets-sky-wide-angle-ai-generated-1920x1080-v0-o6fdvzriwx9c1.jpeg?width=1080&crop=smart&auto=webp&s=3754a534d67cd748ea1cc19ca2cfd82f7bf71865",
+      "displayLink": "www.reddit.com",
+      "snippet": "Turquoise Sea Meets Sky Wide Angle AI Generated [1920x1080] : r ...",
+      "htmlSnippet": "Turquoise Sea Meets Sky Wide Angle AI Generated [<b>1920x1080</b>] : r ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.reddit.com/r/wallpapers/comments/18wedkd/turquoise_sea_meets_sky_wide_angle_ai_generated/",
+        "height": 607,
+        "width": 1080,
+        "byteSize": 93150,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSygHcJWbTSYkIlcZ1XDyqu47RFQ8ftHAfW_rbKYvwuEd4W-n7LGQl0lNw&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Amazon.com: HP 27 inch 1080P Computer Monitor Silver & White With ...",
+      "htmlTitle": "Amazon.com: HP 27 inch 1080P Computer Monitor Silver &amp; White With ...",
+      "link": "https://m.media-amazon.com/images/I/61kFfE85cdL._AC_UF1000,1000_QL80_.jpg",
+      "displayLink": "www.amazon.com",
+      "snippet": "Amazon.com: HP 27 inch 1080P Computer Monitor Silver & White With ...",
+      "htmlSnippet": "Amazon.com: HP 27 inch 1080P Computer Monitor Silver &amp; White With ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.amazon.com/HP-Computer-Docztorm-1920x1080-Anti-Glare/dp/B0BV7HFPQJ",
+        "height": 640,
+        "width": 1000,
+        "byteSize": 50809,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJT2FNkLRa2ZfN2u6Lluon6CJWQ8eoPdGxRABdGuTl4HKNBdPqQbs81g&s",
+        "thumbnailHeight": 95,
+        "thumbnailWidth": 149
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Thoughts on my clean wallpaper? (1920x1080) Red samurai : r/wallpaper",
+      "htmlTitle": "Thoughts on my clean wallpaper? (<b>1920x1080</b>) Red samurai : r/wallpaper",
+      "link": "https://preview.redd.it/thoughts-on-my-clean-wallpaper-1920x1080-red-samurai-v0-t1g6bz8jw3ca1.png?width=1080&crop=smart&auto=webp&s=f8a12a479a91fc43e782e85cf91633b64798e737",
+      "displayLink": "www.reddit.com",
+      "snippet": "Thoughts on my clean wallpaper? (1920x1080) Red samurai : r/wallpaper",
+      "htmlSnippet": "Thoughts on my clean wallpaper? (<b>1920x1080</b>) Red samurai : r/wallpaper",
+      "mime": "image/png",
+      "fileFormat": "image/png",
+      "image": {
+        "contextLink": "https://www.reddit.com/r/wallpaper/comments/10c69wi/thoughts_on_my_clean_wallpaper_1920x1080_red/",
+        "height": 607,
+        "width": 1080,
+        "byteSize": 425809,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSasYfTR-C34Fj37XgFObUAgJS56ZdbrHBWvJjvTJ4osfDU2lMWw87umQ&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Amazon.com: UPERFECT Portable Monitor, 2023 [NewVersion No MiniDP ...",
+      "htmlTitle": "Amazon.com: UPERFECT Portable Monitor, 2023 [NewVersion No MiniDP ...",
+      "link": "https://m.media-amazon.com/images/I/81coCA9a3LL._AC_UF894,1000_QL80_.jpg",
+      "displayLink": "www.amazon.com",
+      "snippet": "Amazon.com: UPERFECT Portable Monitor, 2023 [NewVersion No MiniDP ...",
+      "htmlSnippet": "Amazon.com: UPERFECT Portable Monitor, 2023 [NewVersion No MiniDP ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.amazon.com/Portable-Monitor-Upgraded-1920X1080-Computer/dp/B07TWGBG3P",
+        "height": 671,
+        "width": 894,
+        "byteSize": 124897,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDG6eBzNSe9qkoinu1FH-Qh16a3Rg5T7LwHH7iXYWANZYfwkG79IZgL0&s",
+        "thumbnailHeight": 110,
+        "thumbnailWidth": 146
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "ASUS TUF Gaming 23.8” FHD (1920x1080) Gaming Monitor, IPS, 165Hz ...",
+      "htmlTitle": "ASUS TUF Gaming 23.8” FHD (<b>1920x1080</b>) Gaming Monitor, IPS, 165Hz ...",
+      "link": "https://i5.walmartimages.com/seo/ASUS-TUF-Gaming-23-8-FHD-1920x1080-Gaming-Monitor-IPS-165Hz-1ms-Black-VG249Q1RY-New_77c37b36-1143-46bd-a586-b8e4e938d9cd.08d59f872f1e644f48170f3d026af2e9.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "displayLink": "www.walmart.com",
+      "snippet": "ASUS TUF Gaming 23.8” FHD (1920x1080) Gaming Monitor, IPS, 165Hz ...",
+      "htmlSnippet": "ASUS TUF Gaming 23.8” FHD (<b>1920x1080</b>) Gaming Monitor, IPS, 165Hz ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.walmart.com/ip/ASUS-TUF-Gaming-23-8-FHD-1920x1080-Gaming-Monitor-IPS-165Hz-1ms-Black-VG249Q1RY-New/1263993006",
+        "height": 768,
+        "width": 768,
+        "byteSize": 61056,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZVFnQpKADbsRPdFxa5YccwDyt6Pb0O_4429XV6PuDA5hD5yAqRaKr77qC&s",
+        "thumbnailHeight": 142,
+        "thumbnailWidth": 142
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Amazon.com: Dell G15 5530 Gaming Laptop - 15.6-inch FHD (1920x1080 ...",
+      "htmlTitle": "Amazon.com: Dell G15 5530 Gaming Laptop - 15.6-inch FHD (<b>1920x1080</b> ...",
+      "link": "https://m.media-amazon.com/images/I/71ApWLaIWFL._AC_UF894,1000_QL80_.jpg",
+      "displayLink": "www.amazon.com",
+      "snippet": "Amazon.com: Dell G15 5530 Gaming Laptop - 15.6-inch FHD (1920x1080 ...",
+      "htmlSnippet": "Amazon.com: Dell G15 5530 Gaming Laptop - 15.6-inch FHD (<b>1920x1080</b> ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.amazon.com/Dell-G15-5530-Gaming-Laptop/dp/B0C5NRWVJX",
+        "height": 656,
+        "width": 894,
+        "byteSize": 53797,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolEhQeUWC9Mv3ZP2JZl7k5BEsgRAWRlS-6TYJWmzb3LILgnNMudMBBDk&s",
+        "thumbnailHeight": 107,
+        "thumbnailWidth": 146
+      }
+    }
+  ]
+}
